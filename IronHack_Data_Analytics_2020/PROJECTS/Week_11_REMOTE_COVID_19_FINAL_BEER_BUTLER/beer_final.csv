@@ -1,0 +1,64 @@
+style_name,style_key,style_number,ABV_min,ABV_max,IBU_min,IBU_max,SRM_min,SRM_max,style_groups,style_key_family,recommend,image
+Berliner weisse,I,1,2.5,3.6,3,12,2,4,ale,wheat beer,Dogma Sourmind,images/berliner_weisse.jpg
+Belgian white,I,4,4.5,5.5,15,28,2,4,ale,wheat beer,Blue Moon,images/belgian_white.jpg
+American wheat,I,7,3.5,5.0,5,20,2,8,ale,wheat beer,Zephyr Octopus,images/american_wheat.jpg
+Weizenbier,I,14,4.3,5.6,8,15,3,9,ale,wheat beer,Cevada Pura Weizenbier,images/weizenbier.jpg
+Dunkelweizen,I,27,4.5,6.0,10,15,17,23,ale,wheat beer,Weihenstephaner Dunkel,images/dunkelweizen.jpg
+Weizenbock,I,41,6.5,9.6,12,25,10,30,ale,wheat beer,Eisenbahn Weizenbock,images/weizenbock.jpg
+Lambic,II,2,4.7,6.4,5,15,4,15,ale,lambic and sour,Imigracao Belgian Lambic,images/lambic.jpg
+Gueuze,II,5,4.7,6.4,5,15,4,15,ale,lambic and sour,Timmermans Oude Gueuze,images/gueuze.jpg
+Faro,II,8,4.5,5.5,5,15,4,15,ale,lambic and sour,Boon Faro,images/faro.jpg
+Fruit beer,II,15,4.7,7.0,15,21,-1,-1,ale,lambic and sour,Dama Sour Fruit Tangerina e Gengibre,images/fruit_beer.jpg
+Flanders red,II,28,4.0,5.8,14,25,10,16,ale,lambic and sour,Pratinha Culotte de La Duchesse,images/flanders_red.jpg
+Oud bruin,II,42,4.0,6.5,14,30,12,20,ale,lambic and sour,Liefmans Goudenband 2019,images/oud_bruin.jpg
+Belgian gold ale,III,3,7.0,9.0,25,35,4,6,ale,belgian ale,Leuven Golden Ale King,images/belgian_gold_ale.jpg
+Tripel,III,6,7.0,10.0,20,30,4,7,ale,belgian ale,Cevada Pura Belgian Tripel,images/tripel.jpg
+Saison,III,9,4.5,8.1,25,40,4,10,ale,belgian ale,Leuven Morfeus Saison,images/saison.jpg
+Belgian pale ale,III,16,3.9,5.6,20,35,4,14,ale,belgian ale,Abadia Glimworm,images/belgian_pale_ale.jpg
+Belgian dark ale,III,29,7.0,12.0,25,40,7,20,ale,belgian ale,Bodebrown St Arnould 8,images/belgian_dark_ale.jpg
+Dubbel,III,43,3.2,8.0,20,25,10,20,ale,belgian ale,Leuven Dubbel The Warlock,images/dubbel.jpg
+Pale ale,IV,10,4.5,5.5,20,40,4,11,ale,pale ale,Cevada Pura Tropical IPA,images/pale_ale.jpg
+American pale ale,IV,17,4.5,5.7,20,40,4,11,ale,pale ale,Leopoldina APA,images/american_pale_ale.jpg
+India pale ale,IV,30,5.1,7.6,40,60,8,14,ale,pale ale,Dadiva India Pale Ale,images/india_pale_ale.jpg
+American amber ale,IV,44,4.5,5.7,20,40,11,18,ale,pale ale,Dadiva American Amber Ale,images/american_amber_ale.jpg
+Ordinary bitter,V,18,3.0,3.8,20,35,6,12,ale,english bitter,Adnams Southwold Bitter,images/ordinary_bitter.jpg
+Special bitter,V,31,3.7,4.8,25,40,12,14,ale,english bitter,Old Bitter Man,images/special_bitter.jpg
+Extra special bitter,V,45,3.7,4.8,30,45,12,14,ale,english bitter,Krug Extra Special Bitter Sarcasmo,images/extra_special_bitter.jpg
+Scottish light 60/-,VI,19,2.8,4.0,9,20,8,17,ale,scottish ale,Belhaven Scottish Ale,images/scottish_60.jpg
+Scottish heavy 70/-,VI,32,3.5,4.1,12,25,10,19,ale,scottish ale,Bodebrown Scottish 70 Shilling,images/scottish_70.jpg
+Scottish Export 80/-,VI,46,4.0,4.9,15,36,10,19,ale,scottish ale,Cevada 27 Scottish Export,images/scottish_80.jpg
+American brown,VII,33,4.2,6.0,25,60,15,22,ale,borwn ale,Roleta Russa American Brown Ale,images/american_brown.jpg
+English brown,VII,47,3.5,6.0,15,25,15,30,ale,borwn ale,Insecta Engish Brown Ale,images/english_brown.jpg
+Brown porter,VIII,34,3.8,5.2,20,30,20,35,,porter,Colorado Demoiselle,images/brown_porter.jpg
+Robust porter,VIII,48,4.8,6.0,25,45,30,40,,porter,Schornstein Porter e Cafe,images/robust_porter.jpg
+Dry stout,IX,21,3.2,5.5,30,50,40,100,ale,stout,Dama Bier Stout,images/dry_stout.jpg
+Sweet stout,IX,35,3.2,6.4,20,40,40,100,ale,stout,Tupiniquim Twisted Stout,images/sweet_stout.jpg
+Oatmeal stout,IX,49,3.3,6.1,20,50,40,100,ale,stout,Cevada Pura Oatmeal Stout,images/oatmeal_stout.jpg
+Foreign extra stout,IX,22,5.0,7.5,35,70,40,100,ale,stout,Guinness Special Export,images/Foreign_extra_stout.jpg
+Imperial stout,IX,36,7.8,9.0,50,80,40,100,ale,stout,Schornstein Imperial Stout,images/imperial_stout.jpg
+Russian imperial stout,IX,50,8.0,12.0,50,90,40,100,ale,stout,Cevada Pura Nanquim Nitro,images/russian_imperial_stout.jpg
+German pilsner,X,23,4.6,5.4,25,45,2,4,lager,pilsner,Invicta HELLBEIRAO,images/german_pilsner.jpg
+Bohemian pilsner,X,37,4.1,5.1,35,45,3,5,lager,pilsner,Leopoldina Bohemian Pilsner,images/bohemian_pilsner.jpg
+American pilsner,X,51,5.0,6.0,20,40,3,6,lager,pilsner,Cevada Pura Lemondrop,images/american_pilsner.jpg
+American lite,XI,11,2.9,4.5,8,15,2,4,lager,american lager,Schornstein Soul,images/american_lite.jpg
+American standard,XI,24,4.1,4.8,5,17,2,6,lager,american lager,Coronita Extra,images/american_standard.jpg
+American premium,XI,38,4.6,5.1,13,23,2,8,lager,american lager,Estrella Galicia,images/american_premium.jpg
+American dark,XI,52,4.1,5.6,14,20,10,20,lager,american lager,Blumenau Uru,images/american_dark.jpg
+Munich helles,XII,12,4.5,5.6,18,25,3,5,lager,european lager,HOFBRAU Original,images/munich_helles.jpg
+Dortmunder,XII,25,5.1,6.1,23,29,4,6,lager,european lager,Dab Dortmunder Export,images/dortmunder.jpg
+Munich dunkel,XII,39,4.8,5.4,16,25,17,23,lager,european lager,Dadiva Munich Dunkel,images/munich_dunkel.jpg
+Schwarzbier,XII,53,3.8,5.0,22,30,25,40,lager,european lager,Bamberg Schwarzbier,images/schwarzbier.jpg
+Doppelbock,XIII,26,6.6,7.9,20,30,12,30,lager,bock,Blumenauer Samichlaus Doppelbock,images/doppelbock.jpg
+Traditional bock,XIII,40,6.4,7.6,20,30,15,30,lager,bock,La Trappe Bock,images/bock.jpg
+Eisbock,XIII,54,8.7,14.4,25,50,18,40,lager,bock,Freigeist Strawberry Eisbock Forever Vintage,images/eisbock.jpg
+Kolsch,XIV,55,4.8,5.2,20,30,4,5,mixed_styles,alt,Eisenbahn Kolsch,images/kolsch.jpg
+Altbier,XIV,61,4.6,5.1,25,48,11,19,mixed_styles,alt,Eisenbahn Altbier,images/altbier.jpg
+Biere de garde,XV,56,4.5,8.0,20,30,5,12,mixed_styles,french ale,Von Borstel Nord,images/biere_de_garde.jpg
+Oktoberfest,XVI,57,5.1,6.5,18,30,8,12,mixed_styles,german amber ale,Erdinger Oktoberfest,images/oktoberfest.jpg
+Vienna,XVI,62,4.6,5.5,20,28,8,14,mixed_styles,german amber ale,Baden Baden Vienna Lager,images/vienna.jpg
+Cream ale,XVII,58,4.5,6.0,10,35,8,14,mixed_styles,american special,Capa Preta American Cream Ale Tropical Blonde,images/cream_ale.jpg
+Steam beer,XVII,63,3.6,5.0,35,45,8,17,mixed_styles,american special,Anchor Steam Beer,images/steam_beer.jpg
+Smoked beer,XVII,59,5.0,5.5,20,30,12,17,mixed_styles,american special,Dama Bier Smoked Porter,images/smoked_beer.jpg
+Barleywine,XIX,64,8.4,12.2,50,100,10,40,mixed_styles,barley wine,Dama Bier Reserva 9,images/barleywine.jpg
+English old (strong) ale,XX,60,6.1,8.5,30,40,12,16,mixed_styles,strong ale,Fullers 1845,images/english_strong_ale.jpg
+"Strong ""scotch"" ale",XX,65,6.0,9.0,20,40,10,40,mixed_styles,strong ale,Matarelo Strong Scotch Ale,images/strong_scotch_ale.jpg

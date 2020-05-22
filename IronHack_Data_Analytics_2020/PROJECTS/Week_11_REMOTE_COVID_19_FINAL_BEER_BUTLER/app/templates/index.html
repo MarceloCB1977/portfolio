@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+{% extends 'base.html' %}
+{% block title %}{{ super() }} - Index{% endblock %}
+{% block content %}
+<body>
+  <div class="jumbotron" style="background-color: #d2dafa;">
+    <div class="container">
+      <div class="media">
+        <div class="media-body">
+          <h1>The Beer Butler</h1>
+          <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+              Bem-vindo ao Sistema de Recomendação de Cervejas
+            </div>
+            <br>
+            <p>Se você nunca experimentou Cervejas Artesanais,
+              por não saber "qual é boa", e pelo investimento ser alto,
+              para comprar e depois não gostar.</p>
+              <br>
+              <p class="text-danger font-weight-bold">**REFERÊNCIA: Uma Skol tem o Teor Alcóolico de 4.6, Amargor de 8</p>
+            </div>
+            <form action='' method='POST'>
+              {{ beer_form.csrf_token }}
+              <div class="row borde">
+                <div class="col">
+                  <label>Idade</label>
+                  {{ beer_form.age(class='form-control') }}
+                </div>
+                <div class="col">
+                  <label>Gênero</label>
+                  {{ beer_form.gender(class='form-control') }}
+                </div>
+              </div>
+
+              <div class="row">
+                <br>
+              </div>
+
+              <div class="row">
+                <div class="col">
+                  <label>Teor Alcóolico</label>
+                  {{ beer_form.abv(class='form-control') }}
+                </div>
+                <div class="col">
+                  <label>Amargor</label>
+                  {{ beer_form.ibu(class='form-control') }}
+                </div>
+                <div class="col">
+                  <label>Claridade</label>
+                  {{ beer_form.srm(class='form-control') }}
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <br>
+                  <button type="submit" class="btn btn-outline-success btn-lg btn-block">Enviar</button>
+                  <br>
+                </div>
+              </div>
+            </form>
+          </div>
+          <img class="ml-3" src="/static/butler_mcb.png" alt="">
+        </div>
+      </div>
+    </div>
+
+    <div class="card-group">
+      {% for style, img, cap in zipped_results %}
+
+      <div class="row-1">
+
+        <div class="col">
+          <div class="card" style="width: 18rem;">
+            <img src="/static/{{img}}" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">{{cap}}</h5>
+              <p class="card-text">{{style}}</p>
+              <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#my_target">Onde Comprar</a>
+            </div>
+          </div>
+        </div>
+        <!-- Modal -->
+        <div class="modal fade rounded-top" id="my_target" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-scrollable" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalScrollableTitle">The Beer Butler</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                Aqui você encontrará as opções de preços e locais para a compra da sua recomendação. EM BREVE!
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+</body>
+{%  endblock %}
+
+
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</html>

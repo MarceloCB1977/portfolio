@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+{% extends 'base.html' %}
+{% block title %}{{ super() }} - Contato{% endblock %}
+{% block content %}
+<body>
+  <div class="jumbotron" style="background-color: #d2dafa;">
+    <div class="container">
+
+      <div class="media">
+        <div class="media-body">
+          <h1>The Beer Butler</h1>
+          <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-contato" role="tabpanel" aria-labelledby="nav-contato-tab"></div>
+              <p class="font-weight-normal">
+                Você tem dúvidas?<br>
+                <br>
+                Você tem Sugestões?<br>
+                <br>
+                Você tem informações?<br>
+                <br>
+                Entre em contato!<br>
+                <br>
+                m.creations09@gmail.com
+              </p>
+
+          </div>
+        </div>
+        <img class="ml-3" src="/static/butler_mcb.png" alt="">
+      </div>
+</body>
+{% endblock %}

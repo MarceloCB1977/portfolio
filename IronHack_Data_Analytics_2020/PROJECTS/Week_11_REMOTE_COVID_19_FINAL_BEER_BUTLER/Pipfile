@@ -1,0 +1,37 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+
+alembic = "*"
+click = "*"
+Flask = "*"
+Flask-Cors = "*"
+Flask-Migrate = "*"
+Flask-Script = "*"
+Flask-SQLAlchemy = "*"
+Flask-WTF = "*"
+fuzzywuzzy = "*"
+gunicorn = "*"
+itsdangerous = "*"
+Jinja2 = "*"
+Mako = "*"
+MarkupSafe = "*"
+mysql = "*"
+mysql-connector = "*"
+mysqlclient = "*"
+numpy = "*"
+pandas = "*"
+python-dateutil = "*"
+python-editor = "*"
+pytz = "*"
+six = "*"
+SQLAlchemy = "*"
+Werkzeug = "*"
+WTForms = "*"
+
+[requires]
+
+python_version = "3.7.1"

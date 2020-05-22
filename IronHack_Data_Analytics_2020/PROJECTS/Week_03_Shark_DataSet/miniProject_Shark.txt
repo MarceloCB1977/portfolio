@@ -1,0 +1,4 @@
+Week X Mini Project Shark Attacks
+
+From a Kaggle DataSet, select, clean and manipulate the Data.
+to answer questions about it.

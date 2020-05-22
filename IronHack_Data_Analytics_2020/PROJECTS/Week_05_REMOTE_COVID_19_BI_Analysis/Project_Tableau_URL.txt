@@ -1,0 +1,19 @@
+Week 5 Project
+
+Project executed in duo Marcelo Brega and Victor Farneze
+
+Tableau
+
+Data Set
+Tidy Tuesday Beer Data Set
+https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-03-31/readme.md
+
+My Tableau - Marcelo Brega
+https://public.tableau.com/profile/marcelo.brega#!/vizhome/Project_Week5_Tableau/Dashboard1
+
+The Question asked is.
+"why did the Beer prodction in the US started to drop around 2015 for the major producers?
+
+The Answer is;
+"Due to the growth of the Craft Beer consumption, consequently the growth of the craft beer small to medium producers,
+taking a piece of the beer market"

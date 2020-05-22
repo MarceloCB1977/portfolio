@@ -1,0 +1,18 @@
+
+
+
+Client ID 0d58b2b45d26481a8b605cc73c851558
+Client Secret 24849aa927a2485bafde099ed24fd232
+
+
+
+'BQCTJMq7CFoa0_SrbBzQVlJeYBE-2BD1EhTalOL4vMbFQPVw98lCFzziGcYS1IYqbLtq_jOIVDooVcUTL0qFZmeUhlCD8k2Dced2DCd579RwDWieqwMeuQ9pUNLuV8XvAPrWhp_TjGiw109WUe2qXjpWQAMgRipRp0_0Wodv0WplDcNsll9bVA'
+
+
+
+
+id - 0TnOYISbd1XYRBk9myaseg
+
+token - BQBs4C3ShvLVaXVCV7QkZ1IxSat9JSjUnTstAVD94fcauNS_iZrYM21EK0NS4H4UuH2VT8GS8Qie4vBsLIrbSss6fQCgxjB_EsX6o1sbGd7fJ6-AXNFeHMpkWNxMXD8w6Vp_b9iUCZPux9BOFsQ
+
+https://api.spotify.com/v1/artists/{id}

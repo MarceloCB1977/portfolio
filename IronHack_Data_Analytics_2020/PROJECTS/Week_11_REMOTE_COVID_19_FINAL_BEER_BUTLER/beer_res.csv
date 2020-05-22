@@ -1,0 +1,64 @@
+,style_name,recommend,image
+0,Berliner weisse,Dogma Sourmind,images/berliner_weisse.png
+1,Belgian white,Blue Moon,images/belgian_white.png
+2,American wheat,Zephyr Octopus,images/american_wheat.png
+3,Weizenbier,Cevada Pura Weizenbier,images/weizenbier.png
+4,Dunkelweizen,Weihenstephaner Dunkel,images/dunkelweizen.png
+5,Weizenbock,Eisenbahn Weizenbock,images/weizenbock.png
+6,Lambic,Imigracao Belgian Lambic,images/lambic.png
+7,Gueuze,Timmermans Oude Gueuze,images/gueuze.png
+8,Faro,Boon Faro,images/faro.png
+9,Fruit beer,Dama Sour Fruit Tangerina e Gengibre,images/fruit_beer.png
+10,Flanders red,Pratinha Culotte de La Duchesse,images/flanders_red.png
+11,Oud bruin,Liefmans Goudenband 2019,images/oud_bruin.png
+12,Belgian gold ale,Leuven Golden Ale King,images/belgian_gold_ale.png
+13,Tripel,Cevada Pura Belgian Tripel,images/tripel.png
+14,Saison,Leuven Morfeus Saison,images/saison.png
+15,Belgian pale ale,Abadia Glimworm,images/belgian_pale_ale.png
+16,Belgian dark ale,Bodebrown St Arnould 8,images/belgian_dark_ale.png
+17,Dubbel,Leuven Dubbel The Warlock,images/dubbel.png
+18,Pale ale,Cevada Pura Tropical IPA,images/pale_ale.png
+19,American pale ale,Leopoldina APA,images/american_pale_ale.png
+20,India pale ale,Dadiva India Pale Ale,images/india_pale_ale.png
+21,American amber ale,Dadiva American Amber Ale,images/american_amber_ale.png
+22,Ordinary bitter,Adnams Southwold Bitter,images/ordinary_bitter.png
+23,Special bitter,Old Bitter Man,images/special_bitter.png
+24,Extra special bitter,Krug Extra Special Bitter Sarcasmo,images/extra_special_bitter.png
+25,Scottish light 60/-,Belhaven Scottish Ale,images/scottish_60.png
+26,Scottish heavy 70/-,Bodebrown Scottish 70 Shilling,images/scottish_70.png
+27,Scottish Export 80/-,Cevada 27 Scottish Export,images/scottish_80.png
+29,American brown,Roleta Russa American Brown Ale,images/american_brown.png
+30,English brown,Insecta Engish Brown Ale,images/english_brown.png
+31,Brown porter,Colorado Demoiselle,images/brown_porter.png
+32,Robust porter,Schornstein Porter e Cafe,images/robust_porter.png
+33,Dry stout,Dama Bier Stout,images/dry_stout.png
+34,Sweet stout,Tupiniquim Twisted Stout,images/sweet_stout.png
+35,Oatmeal stout,Cevada Pura Oatmeal Stout,oatmeal_stout.png
+36,Foreign extra stout,Guinness Special Export,images/Foreign_extra_stout.png
+37,Imperial stout,Schornstein Imperial Stout,images/imperial_stout.png
+38,Russian imperial stout,Cevada Pura Nanquim Nitro,images/russian_imperial_stout.png
+39,German pilsner,Invicta HELLBEIRAO,images/german_pilsner.png
+40,Bohemian pilsner,Leopoldina Bohemian Pilsner,images/bohemian_pilsner.png
+41,American pilsner,Cevada Pura Lemondrop,images/american_pilsner.png
+42,American lite,Schornstein Soul,images/american_lite.png
+43,American standard,Coronita Extra,images/american_standard.png
+44,American premium,Estrella Galicia,images/american_premium.png
+45,American dark,Blumenau Uru,images/american_dark.png
+46,Munich helles,HOFBRAU Original,images/munich_helles.png
+47,Dortmunder,Dab Dortmunder Export,images/dortmunder.png
+48,Munich dunkel,Dadiva Munich Dunkel,images/munich_dunkel.png
+49,Schwarzbier,Bamberg Schwarzbier,images/schwarzbier.png
+51,Doppelbock,Blumenauer Samichlaus Doppelbock,images/doppelbock.png
+52,Traditional bock,La Trappe Bock,images/bock.png
+53,Eisbock,Freigeist Strawberry Eisbock Forever Vintage,images/eisbock.png
+54,Kolsch,Eisenbahn Kolsch,images/kolsch.png
+55,Altbier,Eisenbahn Altbier,images/altbier.png
+56,Biere de garde,Von Borstel Nord,images/biere_de_garde.png
+57,Oktoberfest,Erdinger Oktoberfest,images/oktoberfest.png
+58,Vienna,Baden Baden Vienna Lager,images/vienna.png
+59,Cream ale,Capa Preta American Cream Ale Tropical Blonde,images/cream_ale.png
+60,Steam beer,Anchor Steam Beer,images/steam_beer.png
+61,Smoked beer,Dama Bier Smoked Porter,images/smoked_beer.png
+62,Barleywine,Dama Bier Reserva 9,images/barleywine.png
+63,English old (strong) ale,Fullers 1845,images/english_strong_ale.png
+64,"Strong ""scotch"" ale",Matarelo Strong Scotch Ale,images/strong_scotch_ale.png

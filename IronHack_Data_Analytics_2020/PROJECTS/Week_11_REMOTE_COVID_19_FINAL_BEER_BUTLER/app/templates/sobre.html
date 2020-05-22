@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+{% extends 'base.html' %}
+{% block title %}{{ super() }} - Sobre{% endblock %}
+{% block content %}
+<body>
+
+  <div class="jumbotron" style="background-color: #d2dafa;">
+    <div class="container">
+
+      <div class="media">
+        <div class="media-body">
+          <h1>The Beer Butler</h1>
+          <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-sobre" role="tabpanel" aria-labelledby="nav-sobre-tab"></div>
+            <p class="font-weight-normal">Este Sistema de Recomendação foi desenvolvido com o intuito de
+              fazer com que mais pessoas desfrutem das maravilhosas Cervejas Artesanais do mundo todo.<br>
+              <br>
+              Muitas pessoas deixam de experimentar essas cervejas, por não conhecerem e não entenderem o que
+              esperar de cada estilo de cerveja, por serem acostumados com o "padrão" com o qual vivemos a muito tempo,
+              outras pelo alto custo da maioria das Cervejas Artesanais.<br>
+              <br>
+              Portanto este sistema foi desenvolvido, a princípio fazemos as recomendações através das escolhas dos usuários,
+              selecionando entre níveis de Teor Alcóolico(ABV), de Amargor(IBU) e de Claridade(SRM).<br>
+              <br>
+              Ao mesmo tempo estamos coletando todos os resultados junto com informações sobre os usuários,
+              para no futuro desenvolvermos um modelo, que poderá fazer recomendações não só pelos níveis selecionados,
+              mas também por perfil do usuário e localização, incentivando o consumo das cervejarias locais, mais próximas de cada usuário.
+
+             </p>
+          </div>
+        </div>
+        <img class="ml-3" src="/static/butler_mcb.png" alt="">
+      </div>
+</body>
+
+{% endblock %}

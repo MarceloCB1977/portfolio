@@ -1,0 +1,66 @@
+,style_name,style_key,style_number,ABV_min,ABV_max,IBU_min,IBU_max,SRM_min,SRM_max,style_groups,style_key_family
+0,Berliner weisse,I,1,2.5,3.6,3,12,2,4,ale,wheat beer
+1,Belgian white,I,4,4.5,5.5,15,28,2,4,ale,wheat beer
+2,American wheat,I,7,3.5,5.0,5,20,2,8,ale,wheat beer
+3,Weizenbier,I,14,4.3,5.6,8,15,3,9,ale,wheat beer
+4,Dunkelweizen,I,27,4.5,6.0,10,15,17,23,ale,wheat beer
+5,Weizenbock,I,41,6.5,9.6,12,25,10,30,ale,wheat beer
+6,Lambic,II,2,4.7,6.4,5,15,4,15,ale,lambic and sour
+7,Gueuze,II,5,4.7,6.4,5,15,4,15,ale,lambic and sour
+8,Faro,II,8,4.5,5.5,5,15,4,15,ale,lambic and sour
+9,Fruit beer,II,15,4.7,7.0,15,21,-1,-1,ale,lambic and sour
+10,Flanders red,II,28,4.0,5.8,14,25,10,16,ale,lambic and sour
+11,Oud bruin,II,42,4.0,6.5,14,30,12,20,ale,lambic and sour
+12,Belgian gold ale,III,3,7.0,9.0,25,35,4,6,ale,belgian ale
+13,Tripel,III,6,7.0,10.0,20,30,4,7,ale,belgian ale
+14,Saison,III,9,4.5,8.1,25,40,4,10,ale,belgian ale
+15,Belgian pale ale,III,16,3.9,5.6,20,35,4,14,ale,belgian ale
+16,Belgian dark ale,III,29,7.0,12.0,25,40,7,20,ale,belgian ale
+17,Dubbel,III,43,3.2,8.0,20,25,10,20,ale,belgian ale
+18,Pale ale,IV,10,4.5,5.5,20,40,4,11,ale,pale ale
+19,American pale ale,IV,17,4.5,5.7,20,40,4,11,ale,pale ale
+20,India pale ale,IV,30,5.1,7.6,40,60,8,14,ale,pale ale
+21,American amber ale,IV,44,4.5,5.7,20,40,11,18,ale,pale ale
+22,Ordinary bitter,V,18,3.0,3.8,20,35,6,12,ale,english bitter
+23,Special bitter,V,31,3.7,4.8,25,40,12,14,ale,english bitter
+24,Extra special bitter,V,45,3.7,4.8,30,45,12,14,ale,english bitter
+25,Scottish light 60/-,VI,19,2.8,4.0,9,20,8,17,ale,scottish ale
+26,Scottish heavy 70/-,VI,32,3.5,4.1,12,25,10,19,ale,scottish ale
+27,Scottish Export 80/-,VI,46,4.0,4.9,15,36,10,19,ale,scottish ale
+28,English mild,VII,20,2.5,4.1,10,24,10,25,ale,borwn ale
+29,American brown,VII,33,4.2,6.0,25,60,15,22,ale,borwn ale
+30,English brown,VII,47,3.5,6.0,15,25,15,30,ale,borwn ale
+31,Brown porter,VIII,34,3.8,5.2,20,30,20,35,,porter
+32,Robust porter,VIII,48,4.8,6.0,25,45,30,40,,porter
+33,Dry stout,IX,21,3.2,5.5,30,50,40,100,ale,stout
+34,Sweet stout,IX,35,3.2,6.4,20,40,40,100,ale,stout
+35,Oatmeal stout,IX,49,3.3,6.1,20,50,40,100,ale,stout
+36,Foreign extra stout,IX,22,5.0,7.5,35,70,40,100,ale,stout
+37,Imperial stout,IX,36,7.8,9.0,50,80,40,100,ale,stout
+38,Russian imperial stout,IX,50,8.0,12.0,50,90,40,100,ale,stout
+39,German pilsner,X,23,4.6,5.4,25,45,2,4,lager,pilsner
+40,Bohemian pilsner,X,37,4.1,5.1,35,45,3,5,lager,pilsner
+41,American pilsner,X,51,5.0,6.0,20,40,3,6,lager,pilsner
+42,American lite,XI,11,2.9,4.5,8,15,2,4,lager,american lager
+43,American standard,XI,24,4.1,4.8,5,17,2,6,lager,american lager
+44,American premium,XI,38,4.6,5.1,13,23,2,8,lager,american lager
+45,American dark,XI,52,4.1,5.6,14,20,10,20,lager,american lager
+46,Munich helles,XII,12,4.5,5.6,18,25,3,5,lager,european lager
+47,Dortmunder,XII,25,5.1,6.1,23,29,4,6,lager,european lager
+48,Munich dunkel,XII,39,4.8,5.4,16,25,17,23,lager,european lager
+49,Schwarzbier,XII,53,3.8,5.0,22,30,25,40,lager,european lager
+50,Heller bock,XIII,13,6.0,7.5,20,35,4,10,lager,bock
+51,Doppelbock,XIII,26,6.6,7.9,20,30,12,30,lager,bock
+52,Traditional bock,XIII,40,6.4,7.6,20,30,15,30,lager,bock
+53,Eisbock,XIII,54,8.7,14.4,25,50,18,40,lager,bock
+54,Kolsch,XIV,55,4.8,5.2,20,30,4,5,mixed_styles,alt
+55,Altbier,XIV,61,4.6,5.1,25,48,11,19,mixed_styles,alt
+56,Biere de garde,XV,56,4.5,8.0,20,30,5,12,mixed_styles,french ale
+57,Oktoberfest,XVI,57,5.1,6.5,18,30,8,12,mixed_styles,german amber ale
+58,Vienna,XVI,62,4.6,5.5,20,28,8,14,mixed_styles,german amber ale
+59,Cream ale,XVII,58,4.5,6.0,10,35,8,14,mixed_styles,american special
+60,Steam beer,XVII,63,3.6,5.0,35,45,8,17,mixed_styles,american special
+61,Smoked beer,XVII,59,5.0,5.5,20,30,12,17,mixed_styles,american special
+62,Barleywine,XIX,64,8.4,12.2,50,100,10,40,mixed_styles,barley wine
+63,English old (strong) ale,XX,60,6.1,8.5,30,40,12,16,mixed_styles,strong ale
+64,"Strong ""scotch"" ale",XX,65,6.0,9.0,20,40,10,40,mixed_styles,strong ale
