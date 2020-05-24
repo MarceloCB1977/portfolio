@@ -1,33 +1,23 @@
+# Diamonds Predictive Model
 
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+Project to develop a Machine Learning Model to predict a diamonds price
 
-# Mini-Project | Module 2 Cumulative Lab 1
+## Python libraries imported
 
+for this project i used Pandas, Numpy, Seaborn, Matplotlib, Sklearn with LinearRegression, r2_score and mean_squared_error
 
-## Introduction
+### How i did it
 
-The goal of this extended lab is to apply the statistical concepts that you have learned so far to real-world data both to practice and better understand how these concepts are useful. 
+We received a DataFrame with a lot of features about diamonds.
+I researched and found out that i needed the 4 C's, Carat, Color, Clarity and Cut
+These are the features used in the real world market to price diamonds.
+Also following the real world market, i started to cluster those informations into groups.
+after that, i trained and tested my model with those separate groups.
 
+### Challenges
 
-## Getting Started
-
-This lab consists of two parts: Data cleaning & Exploratory data analysis. You should begin with '1.-Data Cleaning.ipynb', and then move on to '2.-EDA.ipynb' as you will want to use the clean dataset you build in part 1 to complete part 2. 
-
-
-## Expectations
-
-- Write clean, well-commented code
-- Fully explain your responses where necessary
-- Refer to the lecture notes if you have questions
-- Don't be afraid to ask your TAs for help!
-
-
-## Deliverables
-
-- '1.-Data Cleaning.ipynb' with your responses
-- '2.-EDA.ipynb' with your responses
-
-
-## Submission
-
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+The challenge for me this time, was the "conventional way" of doing this, was very different from what
+i found in my research about the market. I was supposed to follow a specifi order of steps, and at the time we haven't learned about clusterization yet.
+I clustered it by hand, filtering the features, grouping them into clusters with pandas.
+At the end, when all the models were tested against a new DataFrame, my model was the third more accurate.
+I'm very proud of that.
