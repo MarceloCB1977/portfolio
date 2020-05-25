@@ -1,4 +1,4 @@
-# Diamonds Predictive Model
+# The Beer Butler
 
 Bootcamp's Final Project
 
